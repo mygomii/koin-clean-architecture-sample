@@ -1,1 +1,1 @@
-# koin-study-sample
+# koin-clean-architecture-sample
